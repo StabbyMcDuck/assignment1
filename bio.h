@@ -1,5 +1,5 @@
 Programming Background:
-I have tried Ruby and Clojure and some Pythong in the past.
+I have tried Ruby and Clojure and some Python in the past.
 I most enjoy working in Clojure, but I believe that's because I enjoy
 the project I am working on the best.  It's a music composition written in
 Clojure using Overtone.
@@ -12,4 +12,4 @@ I enjoyed it because it was a non-violent video game.  I don't care for
 violence in my hobbies.  Maybe that's why music, knitting, and programming
 are my main hobbies!  
   
-
+It is my scientific opinion that cats make the internet work. 
